@@ -30,7 +30,16 @@ Machine Learning is where computers can learn from examples and experience
 
 If classifier is a box of rules. A Learning  Algorithm is the procedure that creates the rules by finding patterns in the training data. It may notice orange weighs more, so it creates a rule that the heavier the fruit, the more likely it is to be an apple.
 
+Choosing good features is one of your most important jobs.
 
 # Resources
 
+## Google Developers
+
+Part 1
+
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
+
+Part 2
+
+https://www.youtube.com/watch?v=tNa99PG8hR8
