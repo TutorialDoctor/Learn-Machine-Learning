@@ -60,32 +60,48 @@ Model - protoype that define rules of classifier function. has adjustable parame
 
 ## Google Developers
 
-Part 1 - Hello World
+**Part 1 - Hello World**
 
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 
-Part 2 - Classify Iris Flowers
+**Part 2 - Classify Iris Flowers**
 
 https://www.youtube.com/watch?v=tNa99PG8hR8
 
 
-Part 4 - 
+**Part 4 - **
 
 https://www.youtube.com/watch?v=84gqSbLcBFE
 
-Part 5 - Create your own Classifier
+**Part 5 - Create your own Classifier**
 
 https://www.youtube.com/watch?v=AoeEHqVSNOw
 
-Part 6 - Tensorflow Image Classification (Open Source)
+**Part 6 - Tensorflow Image Classification (Open Source)**
 
 https://www.youtube.com/watch?v=cSKfRcEDGUs
 
-Part 7 - Hello World Computer Vision
+**Part 7 - Hello World Computer Vision**
 
 https://www.youtube.com/watch?v=Gj0iyo265bc
 
-Part 8 - Own Decision Tree Classifier
+**Part 8 - Own Decision Tree Classifier**
 
 https://www.youtube.com/watch?v=LDRbO9a6XPU
 
+
+## StyleGAN2 Ipy Notebook with Google Colab
+
+https://www.youtube.com/watch?v=SWoravHhsUU
+
+## Simulation
+
+https://blog.inten.to/welcome-to-the-simulation-dd0d8cb6534d
+
+**Decision Tree**
+
+https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb
+
+**Concepts**
+
+https://medium.com/@rajesh_brid

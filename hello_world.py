@@ -1,6 +1,6 @@
 from sklearn import tree
 
-# Compare apples and oranges. "0" is bumpy. "1" is smooth
+# Compare apples and oranges. 
 # 1. Collect training data
 # features = [
 #     [140,"smooth"],
@@ -8,7 +8,10 @@ from sklearn import tree
 #     [150,"bumpy"],
 #     [170,"bumpy"]
 # ]
+
 # Scikit uses real-valued features (can't use strings as features)
+# Weight and texture. "0" is bumpy. "1" is smooth
+# Weight and texture. "0" is red. "1" is orange
 features = [
     [140,1],
     [130,1],
@@ -28,7 +31,6 @@ classifier = classifier.fit(features, labels)
 
 # 3. Make Predictions
 print(classifier.predict([[170,0]])) #2 dimensional array needed for python3
-
 
 # THE MORE SCI-KIT WAY
 features = [[140,1],[130,1],[150,0],[170,0]]
